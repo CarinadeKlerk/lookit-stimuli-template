@@ -2,14 +2,6 @@
 
 Repository for stimuli to be used in Lookit studies. 
 
-## Getting started
-
-1. Log in to GitHub, making an account if you don't already have one.
-
-2. Click the "Fork" button at the top right of this page. This will copy the template stimuli repository to your own account. 
-
-3. Edit the description (which will still be "A template repository for Lookit researchers who want to host their stimuli on GitHub") so it reflects the planned content of your repository.
-
 ## Adding your stimuli
 
 From your own fork, you can add stimuli right in GitHub like this:
